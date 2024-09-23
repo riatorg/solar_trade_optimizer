@@ -1,0 +1,4 @@
+networkx==2.6.3
+pytesseract==0.3.10
+matplotlib==3.4.3
+ortools==9.3.10497

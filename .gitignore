@@ -1,0 +1,11 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Ignore Anaconda environment files (optional)
+*.env
+*.conda
+*.pkl
+
+# Ignore VSCode settings (optional)
+.vscode/
